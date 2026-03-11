@@ -1,16 +1,12 @@
-## вижу цель - делаю красиво 🌷
+<div align="center">
+    <img src="https://media.giphy.com/media/ZcRfG9wb5hNv6hMAdM/giphy.gif?cid=790b7611jwdz6ax7h73mbxip8q6mrfpbkthrplrwp3opuux5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="нежные пионы" />
+    <!-- Выше ссылка на пример с пионами, но вы можете найти свою гифку -->
+</div>
 
-<!--
-**sssabbe/sssabbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    Привет, я Сабина) 🌸
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+    Здесь расцветают мои проекты ✨
+</h3>
